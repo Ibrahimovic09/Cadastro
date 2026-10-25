@@ -19,7 +19,7 @@ public class Cadastro {
             System.out.print("Escolha uma opção: ");
 
             opcao = sc.nextInt();
-            sc.nextLine(); // Limpa a quebra de linha
+            sc.nextLine();
 
             switch (opcao) {
 
